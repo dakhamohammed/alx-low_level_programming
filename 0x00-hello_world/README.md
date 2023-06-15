@@ -31,3 +31,7 @@
    - C program that prints exactly with proper grammar, but the outcome is a piece of art,
 
 
+7. 6-size.c
+   - C program that prints the size of various types on the computer it is compiled and run on.
+     - You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
+
