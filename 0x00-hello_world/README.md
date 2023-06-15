@@ -35,3 +35,7 @@
    - C program that prints the size of various types on the computer it is compiled and run on.
      - You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
 
+8. 100-intel
+   - Shell script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+     - The C file name will be saved in the variable $CFILE.
+
