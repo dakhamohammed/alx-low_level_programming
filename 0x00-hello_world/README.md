@@ -39,3 +39,6 @@
    - Shell script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
      - The C file name will be saved in the variable $CFILE.
 
+9. 101-quote.c
+   - C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
+
