@@ -8,7 +8,7 @@
 int main(void)
 {
 	/**
-	 * Use puts function to print "Programming is like building a multilingual puzzle
+	 * puts function to print "Programming is like building a multilingual puzzle
 	 */
 	puts("\"Programming is like building a multilingual puzzle");
 
