@@ -22,3 +22,6 @@
 3. 2-print_alphabet.c
    - C program that prints the alphabet in lowercase.
 
+4. 3-print_alphabets.c
+   - C program that prints the alphabet in lowercase, and then in uppercase.
+
