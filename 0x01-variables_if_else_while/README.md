@@ -32,3 +32,6 @@
 6. 5-print_numbers.c
    - C program that prints all single digit numbers of base 10 starting from 0.
 
+7. 6-print_numberz.c
+   - C program that prints all single digit numbers of base 10 starting from 0.
+
