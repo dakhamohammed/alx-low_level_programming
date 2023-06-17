@@ -38,3 +38,6 @@
 8. 7-print_tebahpla.c
    - C program that prints the lowercase alphabet in reverse mode.
 
+9. 8-print_base16.c
+   - C program that prints all the numbers of base 16 in lowercase.
+
