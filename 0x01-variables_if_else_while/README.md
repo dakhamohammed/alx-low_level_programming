@@ -48,3 +48,6 @@
 11. 100-print_comb3.c
     - C program that prints all possible different combinations of two digits.
 
+12. 101-print_comb4.c
+    - C program that prints all possible different combinations of three digits.
+
