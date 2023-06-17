@@ -29,3 +29,6 @@
    - C program that prints the alphabet in lowercase, followed by a new line.
      - Print all letters except e and q
 
+6. 5-print_numbers.c
+   - C program that prints all single digit numbers of base 10 starting from 0.
+
