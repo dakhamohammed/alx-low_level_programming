@@ -25,3 +25,7 @@
 4. 3-print_alphabets.c
    - C program that prints the alphabet in lowercase, and then in uppercase.
 
+5. 4-print_alphabt.c
+   - C program that prints the alphabet in lowercase, followed by a new line.
+     - Print all letters except e and q
+
