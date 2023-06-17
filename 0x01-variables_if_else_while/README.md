@@ -45,3 +45,6 @@
     - C program that prints all possible combinations of single-digit numbers.
       - Numbers separated by , and white-space
 
+11. 100-print_comb3.c
+    - C program that prints all possible different combinations of two digits.
+
