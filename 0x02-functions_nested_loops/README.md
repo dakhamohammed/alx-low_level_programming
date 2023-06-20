@@ -28,4 +28,6 @@
 7. 6-abs.c
    - Function that computes the absolute value of an integer.
 
+8. 7-print_last_digit.c
+   - Function that prints the last digit of a number.
 
