@@ -15,3 +15,8 @@
      - Returns 1 if c is lowercase
      - Returns 0 otherwise
 
+5. 4-isalpha.c
+   - Function that checks for alphabetic character.
+     - Returns 1 if c is a letter, lowercase or uppercase
+     - Returns 0 otherwise
+
