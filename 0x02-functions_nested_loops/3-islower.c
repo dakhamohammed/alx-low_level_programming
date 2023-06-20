@@ -5,7 +5,7 @@
  * Returns 1 if c is lowercase
  * Returns 0 otherwise
  *
- * @c: is a character in ASCII.
+ * @c: is a character in alphabetic mode like 'a' or 'B' or 'k'.
  *
  * Return: Always 0 (Success)
  */
