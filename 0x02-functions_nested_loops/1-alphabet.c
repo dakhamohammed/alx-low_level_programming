@@ -1,20 +1,9 @@
 #include "main.h"
 
 /**
- * main - Prints the alphabet, in lowercase, followed by a new line.
+ * print_alphabet - Print the alphabet in lowercase, followed by new line
  *
  * Return: Always 0 (Success)
- */
-int main(void)
-{
-	/* Print the alphabet in lowercase, followed by new line */
-	print_alphabet();
-
-	return (0);
-}
-
-/**
- * print_alphabet - Print the alphabet in lowercase, followed by new line
  */
 void print_alphabet(void)
 {
