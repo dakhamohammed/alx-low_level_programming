@@ -10,4 +10,8 @@
 3. 2-print_alphabet_x10.c
    - Function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
+4. 3-islower.c
+   - Function that checks for lowercase character.
+     - Returns 1 if c is lowercase
+     - Returns 0 otherwise
 
