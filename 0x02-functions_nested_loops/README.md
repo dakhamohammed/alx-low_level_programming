@@ -37,3 +37,6 @@
 10. 9-times_table.c
     - Function that prints the 9 times table, starting with 0.
 
+11. 10-add.c
+    - Function that adds two integers and returns the result.
+
