@@ -40,3 +40,6 @@
 11. 10-add.c
     - Function that adds two integers and returns the result.
 
+12. 11-print_to_98.c
+    - Function that prints all natural numbers from n to 98, followed by a new line.
+
