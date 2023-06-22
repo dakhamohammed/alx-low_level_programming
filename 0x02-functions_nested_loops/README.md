@@ -53,3 +53,9 @@
 15. 102-fibonacci.c
     - C program that prints the first 50 Fibonacci numbers, starting with 1 and 2.
 
+16. 103-fibonacci.c
+    - C program that finds and prints the sum of the even-valued terms.
+
+17. 104-fibonacci.c
+    - C program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2
+
