@@ -12,9 +12,7 @@ int main(void)
 	long int n = 1, n2 = 2, fib, afib, _n, _n2;
 
 	j = k = 1;
-
 	printf("%ld, %ld", n, n2);
-
 	for (i = 0; i < 96; i++)
 	{
 		if (j)
@@ -34,13 +32,10 @@ int main(void)
 				n2 = n2 / 1000000000;
 				k = 0;
 			}
-
 			afib = (_n + _n2);
 			fib = n + n2 + (afib / 1000000000);
-
 			printf(", %ld", fib);
 			printf("%ld", afib % 1000000000);
-
 			n = n2;
 			_n = _n2;
 			n2 = fib;
@@ -51,9 +46,7 @@ int main(void)
 			j = 0;
 		}
 	}
-
 	printf("\n");
-
 	return (0);
 }
 
