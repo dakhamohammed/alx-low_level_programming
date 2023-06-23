@@ -9,3 +9,6 @@
 3. 2-mul.c
    - C function that multiplies two integers.
 
+4. 3-print_numbers.c
+   - C function that prints the numbers, from 0 to 9
+
