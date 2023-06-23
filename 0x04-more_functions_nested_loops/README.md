@@ -36,3 +36,7 @@
      - Where size is the size of the square
      - If size is 0 or less, the function should print only a new line
 
+10. 9-fizz_buzz.c
+    - C program that prints the numbers from 1 to 100.
+      - for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+
