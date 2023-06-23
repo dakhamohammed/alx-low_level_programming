@@ -19,4 +19,9 @@
 6. 5-more_numbers.c
    - C function that prints 10 times the numbers, from 0 to 14
 
+7. 6-print_line.c
+   - C function that draws a straight line in the terminal.
+     - Where n is the number of times the character _ should be printed
+     - The line should end with a \n
+     - If n is 0 or less, the function should only print \n
 
