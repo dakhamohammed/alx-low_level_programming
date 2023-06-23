@@ -16,3 +16,7 @@
    - C function that prints the numbers, from 0 to 9.
      - but don't print 2 and 4
 
+6. 5-more_numbers.c
+   - C function that prints 10 times the numbers, from 0 to 14
+
+
