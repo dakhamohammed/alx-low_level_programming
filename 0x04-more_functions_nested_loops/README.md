@@ -31,3 +31,8 @@
      - The diagonal should end with a \n
      - If n is 0 or less, the function should only print a \n
 
+9. 8-print_square.c
+   - C function that prints a square, followed by a new line.
+     - Where size is the size of the square
+     - If size is 0 or less, the function should print only a new line
+
