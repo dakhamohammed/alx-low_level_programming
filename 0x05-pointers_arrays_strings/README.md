@@ -9,4 +9,6 @@
 3. 2-strlen.c
    - C function that returns the length of a string.
 
+4. 3-puts.c
+   - C function that prints a string, followed by a new line, to stdout.
 
