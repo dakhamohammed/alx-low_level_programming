@@ -6,4 +6,7 @@
 2. 1-swap.c
    - C function that swaps the values of two integers.
 
+3. 2-strlen.c
+   - C function that returns the length of a string.
+
 
