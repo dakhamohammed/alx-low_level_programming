@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - C function that prints a string, followed by a new line,
+ * _puts - function that prints a string, followed by a new line,
  * to stdout.
  * @str: string value.
  *
@@ -19,7 +19,7 @@ void _puts(char *str)
 		}
 
 		_putchar(str[lenCount]);
-		lenCount++
+		lenCount++;
 	} while (lenCount >= 0)
 }
 
