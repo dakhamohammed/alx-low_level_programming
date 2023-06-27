@@ -31,3 +31,9 @@
     - function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
       - Return value: the pointer to dest
 
+11. 100-atoi.c
+    - C function that convert a string to an integer.
+
+12. 101-keygen.c
+    - C program that generates random valid passwords for the program 101-crackme.
+
