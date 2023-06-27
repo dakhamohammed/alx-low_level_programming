@@ -24,7 +24,7 @@ int main(void)
 			break;
 		}
 		i = i + random;
-		print("%c", random);
+		printf("%c", random);
 	}
 	printf("%c\n", (2772 - i));
 
