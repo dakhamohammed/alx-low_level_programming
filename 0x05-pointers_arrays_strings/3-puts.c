@@ -3,9 +3,9 @@
 /**
  * _puts - function that prints a string, followed by a new line,
  * to stdout.
- * @str: string value.
+ * @str: string value
  *
- * Return: void, no return.
+ * Return: void.
  */
 void _puts(char *str)
 {
@@ -20,6 +20,6 @@ void _puts(char *str)
 
 		_putchar(str[lenCount]);
 		lenCount++;
-	} while (lenCount >= 0)
+	} while (lenCount >= 0);
 }
 
