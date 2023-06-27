@@ -12,3 +12,15 @@
 4. 3-puts.c
    - C function that prints a string, followed by a new line, to stdout.
 
+5. 4-print_rev.c
+   - function that prints a string, in reverse.
+
+6. 5-rev_string.c
+   - function that reverses a string. 
+
+7. 6-puts2.c
+   - function that prints every other character of a string, starting with the first character.
+
+8. 7-puts_half.c
+   - function that prints half of a string.
+
