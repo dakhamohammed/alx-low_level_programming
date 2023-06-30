@@ -9,4 +9,7 @@
 3. 2-strncpy.c
    - C function that copies a string.
 
+4. 3-strcmp.c
+   - C function that compares two strings.
+
 
