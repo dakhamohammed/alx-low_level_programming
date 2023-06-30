@@ -15,4 +15,7 @@
 5. 4-rev_array.c
    - C function that reverses the content of an array of integers.
 
+6. 5-string_toupper.c
+   - C function that changes all lowercase letters of a string to uppercase.
+
 
