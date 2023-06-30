@@ -12,4 +12,7 @@
 4. 3-strcmp.c
    - C function that compares two strings.
 
+5. 4-rev_array.c
+   - C function that reverses the content of an array of integers.
+
 
