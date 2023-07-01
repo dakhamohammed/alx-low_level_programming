@@ -33,4 +33,7 @@
 11. 103-infinite_add.c
     - C function that adds two numbers.
 
+12. 104-print_buffer.c
+    - C function that prints a buffer.
+
 
