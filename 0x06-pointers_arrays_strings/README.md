@@ -24,5 +24,7 @@
 8. 100-rot13.c
    - C Function that encodes a string using rot13.
 
+9. 101-print_number.c
+   - C function that prints an integer.
 
 
