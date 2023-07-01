@@ -30,4 +30,7 @@
 10. 102-magic.c
     - C program prints a[2] = 98, followed by a new line.
 
+11. 103-infinite_add.c
+    - C function that adds two numbers.
+
 
