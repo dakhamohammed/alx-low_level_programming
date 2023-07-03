@@ -15,3 +15,6 @@
 5. 4-strpbrk.c
    -Function that searches a string for any of a set of bytes.
 
+6. 5-strstr.c
+   - Function that locates a substring.
+
