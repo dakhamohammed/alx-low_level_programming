@@ -18,3 +18,6 @@
 6. 5-strstr.c
    - Function that locates a substring.
 
+7. 7-print_chessboard.c
+   - Function that prints the chessboard.
+
