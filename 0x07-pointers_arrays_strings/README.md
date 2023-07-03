@@ -24,3 +24,6 @@
 8. 8-print_diagsums.c
    - Function that prints the sum of the two diagonals of a square matrix of integers.
 
+9. 100-set_string.c
+   - Function that sets the value of a pointer to a char.
+
