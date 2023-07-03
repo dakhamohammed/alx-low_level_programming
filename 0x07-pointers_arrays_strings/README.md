@@ -6,3 +6,6 @@
 2. 1-memcpy.c
    - Function that copies memory area.
 
+3. 2-strchr.c
+   - Function that locates a character in a string.
+
