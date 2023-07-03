@@ -21,3 +21,6 @@
 7. 7-print_chessboard.c
    - Function that prints the chessboard.
 
+8. 8-print_diagsums.c
+   - Function that prints the sum of the two diagonals of a square matrix of integers.
+
