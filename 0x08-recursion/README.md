@@ -15,3 +15,6 @@
 5. 4-pow_recursion.c
    - Function that returns the value of **x** raised to the power of **y**.
 
+6. 5-sqrt_recursion.c
+   - Function that returns the natural square root of a number.
+
