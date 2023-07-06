@@ -24,3 +24,8 @@
 8. 100-is_palindrome.c
    - Function that returns 1 if a string is a palindrome and 0 if not.
 
+10. 101-wildcmp.c
+    - Function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
+      - s2 can contain the special character *.
+      - The special char * can replace any string (including an empty string).
+
