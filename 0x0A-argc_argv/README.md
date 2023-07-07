@@ -12,3 +12,9 @@ int main(int argc, char *argv[]);
 int main(int argc, char **argv);
 ```
 
+### Files:
+
+1. 0-whatsmyname.c
+   - Program that prints its name, followed by a new line.
+     - If you rename the program, it will print the new name, without having to compile it again
+
