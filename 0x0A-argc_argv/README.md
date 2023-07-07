@@ -27,3 +27,6 @@ int main(int argc, char **argv);
 4. 3-mul.c
    - Program that print the result of two integer number.
 
+5. 4.add.c
+   - Program that adds positive numbers and print the result.
+
