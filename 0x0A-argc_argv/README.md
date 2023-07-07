@@ -23,4 +23,7 @@ int main(int argc, char **argv);
 
 3. 2-args.c
    - Program that print all arguments it receives.
- 
+
+4. 3-mul.c
+   - Program that print the result of two integer number.
+
