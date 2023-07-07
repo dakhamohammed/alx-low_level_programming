@@ -29,3 +29,7 @@
      - char *_strstr(char *haystack, char *needle);
 ```
 
+2. create_static_lib.sh
+   - Shell script to create a static lib called **liball.a**, From all **.c** files that are in the current directory.
+     - First it provide object file for each function then create an archive file with **.a** extension "Static library" file format.
+
