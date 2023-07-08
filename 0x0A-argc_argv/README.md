@@ -30,3 +30,8 @@ int main(int argc, char **argv);
 5. 4.add.c
    - Program that adds positive numbers and print the result.
 
+6. 100-change.c
+   - Program that prints the minimum number of coins to make change for an amount of money.
+     - Usage: ./change cents
+     - where cents is the amount of cents you need to give back
+
