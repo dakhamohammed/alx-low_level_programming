@@ -14,3 +14,7 @@
 4. 3-alloc_grid.c
    - Function that returns a pointer to a 2 dimensional array of integers.
      - If width or height is 0 or negative, return NULL.
+
+5. 4-free_grid.c4
+   - Function that frees a 2 dimensional grid previously created by your alloc_grid function.
+
