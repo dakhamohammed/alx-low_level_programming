@@ -14,17 +14,16 @@ char *argstostr(int ac, char **av)
 	char *conargs;
 	int i, j, avlength, k;
 
+	if (ac == 0)
+		return (NULL);
+
 	for (avlength = i = 0; i < ac; i++)
 	{
-		if (ac == 0 || av[i] == NULL)
-		{
+		if (av[i] == NULL)
 			return (NULL);
-		}
 
 		for (j = 0; av[i][j] != '\0'; j++)
-		{
 			avlength++;
-		}
 
 		avlength++;
 	}
