@@ -18,3 +18,7 @@
 5. 4-free_grid.c
    - Function that frees a 2 dimensional grid previously created by your alloc_grid function.
 
+6. 100-argstostr.c
+   - Function that concatenates all the arguments of your program.
+   - Returns NULL if ac == 0 or av == NULL
+
