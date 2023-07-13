@@ -22,3 +22,6 @@
    - Function that concatenates all the arguments of your program.
    - Returns NULL if ac == 0 or av == NULL
 
+7. 101-strtow.c
+   - Function that splits a string into words.
+
