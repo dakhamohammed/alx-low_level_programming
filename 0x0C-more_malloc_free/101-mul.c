@@ -3,6 +3,10 @@
 #include <stdio.h>
 #include <ctype.h>
 
+void _is0(char *argv[]);
+char *_init_array(char *ar, int lar);
+int _checknumber(char *argv[], int n);
+
 /**
  * main - program that multiplies two positive numbers.
  * @argc: number of arguments.
