@@ -37,3 +37,6 @@
      - If ptr is NULL, then the call is equivalent to malloc(new_size), for all values of old_size and new_size.
      - If new_size is equal to zero, and ptr is not NULL, then the call is equivalent to free(ptr). Return NULL.
 
+6. 101-mul.c
+   - Program that multiplies two positive numbers.
+
