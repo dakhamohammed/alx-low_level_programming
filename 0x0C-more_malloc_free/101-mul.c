@@ -69,7 +69,6 @@ int _checknumber(char *argv[], int n)
 			printf("Error\n");
 			exit(98);
 		}
-
 	return (ln);
 }
 
