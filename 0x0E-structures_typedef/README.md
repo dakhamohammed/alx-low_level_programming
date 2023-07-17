@@ -8,3 +8,6 @@
      - **age**, type = float
      - **owner**, type = char *
 
+2. 1-init_dog.c
+   - Function that initialize a variable of type struct dog.
+
