@@ -16,3 +16,6 @@
      - If an element of d is NULL, print (nil) instead of this element. (if name is NULL, print Name: (nil)).
      - If d is NULL print nothing.
 
+4. dog.h same as 1
+   - Defining a new type dog_t as a new name for the type struct dog.
+
