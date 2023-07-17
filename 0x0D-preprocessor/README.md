@@ -14,3 +14,6 @@
 4. 3-function_like_macro.h
    - Function-like macro ABS(x) that computes the absolute value of a number x.
 
+5. 4-sum.h
+   - Function-like macro SUM(x, y) that computes the sum of the numbers x and y.
+
