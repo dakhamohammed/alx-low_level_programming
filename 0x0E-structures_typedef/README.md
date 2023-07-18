@@ -19,3 +19,6 @@
 4. dog.h same as 1
    - Defining a new type dog_t as a new name for the type struct dog.
 
+5. 4-new_dog.c
+   - Function that creates a new dog.
+
