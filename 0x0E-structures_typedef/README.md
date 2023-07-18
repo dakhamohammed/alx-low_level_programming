@@ -22,3 +22,6 @@
 5. 4-new_dog.c
    - Function that creates a new dog.
 
+6. 5-free_dog.c
+   - Function that frees dogs.
+
