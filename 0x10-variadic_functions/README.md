@@ -6,3 +6,8 @@
    - Function that returns the sum of all its parameters.
      - If n == 0, return 0
 
+2. 1-print_numbers.c
+   - Function that prints numbers.
+     - where **separator** is the string to be printed between numbers
+     - and **n** is the number of integers passed to the function
+
