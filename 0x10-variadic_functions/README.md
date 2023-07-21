@@ -11,3 +11,8 @@
      - where **separator** is the string to be printed between numbers
      - and **n** is the number of integers passed to the function
 
+3. 2-print_strings.c
+   - Function that prints strings.
+     - where **separator** is the string to be printed between the strings
+     - and **n** is the number of strings passed to the function
+
