@@ -9,4 +9,5 @@
 | **2-add_node.c**     | `*add_node()`     | adds a new node at the beginning of a list_t list.      |
 | **3-add_node_end.c** | `*add_node_end()` | adds a new node at the end of a list_t list.            |
 | **4-free_list.c**    | `free_list()`     | frees a list_t list.                                    |
+| **100-first.c**      | `before_main()`   | function executed before main.                          |
 
