@@ -1,14 +1,15 @@
 # 0x13. C - More singly linked lists.
 
 ## Table of contents:
-|           FILE          |                FUNCTION              |                               DESCRIPTION                               |
-| ----------------------- | ------------------------------------ | ----------------------------------------------------------------------- |
-| **lists.h**             | Header file                          | Contains prototype for all functions.                                   |
-| **0-print_listint.c**   | **`size_t print_listint()`**         | Function that prints all the elements of a **`listint_t`** list.        |
-| **1-listint_len.c**     | **`size_t listint_len()`**           | Function returns the number of elements in a linked **listint_t** list. |
-| **2-add_nodeint.c**     | **`listint_t *add_nodeint()`**       | Function that adds a new node at the beginning of a **listint_t** list. |
-| **3-add_nodeint_end.c** | **`listint_t *add_nodeint_end()`**   | Function that adds a new node at the end of a **listint_t** list.       |
-| **4-free_listint.c**    | **`void free_listint()`**            | Function that frees a **listint_t** list.                               |
-| **5-free_listint2.c**   | **`void free_listint2()`**           | Function that frees a **listint_t** list.                               |
-| **6-pop_listint.c**     | **`int pop_listint()`**              | Function that deletes the head node of a **listint_t** linked list.     |
+|           FILE          |                 FUNCTION                |                               DESCRIPTION                               |
+| ----------------------- | --------------------------------------- | ----------------------------------------------------------------------- |
+| **lists.h**             | Header file                             | Contains prototype for all functions.                                   |
+| **0-print_listint.c**   | **`size_t print_listint()`**            | Function that prints all the elements of a **`listint_t`** list.        |
+| **1-listint_len.c**     | **`size_t listint_len()`**              | Function returns the number of elements in a linked **listint_t** list. |
+| **2-add_nodeint.c**     | **`listint_t *add_nodeint()`**          | Function that adds a new node at the beginning of a **listint_t** list. |
+| **3-add_nodeint_end.c** | **`listint_t *add_nodeint_end()`**      | Function that adds a new node at the end of a **listint_t** list.       |
+| **4-free_listint.c**    | **`void free_listint()`**               | Function that frees a **listint_t** list.                               |
+| **5-free_listint2.c**   | **`void free_listint2()`**              | Function that frees a **listint_t** list.                               |
+| **6-pop_listint.c**     | **`int pop_listint()`**                 | Function that deletes the head node of a **listint_t** linked list.     |
+| **7-get_nodeint.c**     | **`listint_t *get_nodeint_at_index()`** | Function that returns the nth node of a **listint_t** linked list.      |
 
