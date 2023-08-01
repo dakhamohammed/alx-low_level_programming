@@ -12,4 +12,5 @@
 | **5-free_listint2.c**   | **`void free_listint2()`**              | Function that frees a **listint_t** list.                               |
 | **6-pop_listint.c**     | **`int pop_listint()`**                 | Function that deletes the head node of a **listint_t** linked list.     |
 | **7-get_nodeint.c**     | **`listint_t *get_nodeint_at_index()`** | Function that returns the nth node of a **listint_t** linked list.      |
+| **8-sum_listint.c**     | **`int sum_listint()`**                 | Function that returns the sum of all the data(n) of a listint_t linked l|
 
