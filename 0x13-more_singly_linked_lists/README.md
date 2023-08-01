@@ -9,4 +9,5 @@
 | **2-add_nodeint.c**     | **`listint_t *add_nodeint()`**       | Function that adds a new node at the beginning of a **listint_t** list. |
 | **3-add_nodeint_end.c** | **`listint_t *add_nodeint_end()`**   | Function that adds a new node at the end of a **listint_t** list.       |
 | **4-free_listint.c**    | **`void free_listint()`**            | Function that frees a **listint_t** list.                               |
+| **5-free_listint2.c**   | **`void free_listint2()`**           | Function that frees a **listint_t** list.                               |
 
