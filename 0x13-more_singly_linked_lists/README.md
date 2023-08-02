@@ -18,4 +18,4 @@
 | **10-delete_nodeint.c**      | **`int delete_nodeint_at_index()`**        | Function that deletes the node at index index of a **listint_t** linked l.   |
 | **100-reverse_listint.c**    | **`listint_t *reverse_listint()`**         | Function that reverses a **listint_t** linked list.                          |
 | **101-print_listint_safe.c** | **`size_t print_listint_safe()`**          | Function that prints a **listint_t** linked list.                            |
-
+| **102-free_listint_safe.c**  | **`size_t free_listint_safe()`**           | Function that frees a **listint_t** list.                                    |
