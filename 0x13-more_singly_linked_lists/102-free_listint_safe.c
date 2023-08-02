@@ -1,6 +1,6 @@
 #include "lists.h"
 
-void free_listint2safe(listpointer_t **head);
+void free_listint2safer(listpointer_t **head);
 
 /**
  * free_listint_safe - function that frees a listint_t list.
@@ -35,7 +35,7 @@ size_t free_listint_safe(listint_t **h)
 			if (*h == addp->head_pointer)
 			{
 				*h = NULL;
-				free_listint2safe(&headp);
+				free_listint2safer(&headp);
 				return (nof_nodes);
 			}
 		}
@@ -47,17 +47,17 @@ size_t free_listint_safe(listint_t **h)
 	}
 
 	*h = NULL;
-	free_listint2safe(&headp);
+	free_listint2safer(&headp);
 	return (nof_nodes);
 }
 
 /**
- * free_listint2safe - function that frees a listint_t list.
+ * free_listint2safer - function that frees a listint_t list.
  * @head: pointer to the first and new node in the list.
  *
  * Return: void, no return.
  */
-void free_listint2safe(listpointer_t **head)
+void free_listint2safer(listpointer_t **head)
 {
 	listpointer_t *head1, *head2;
 
@@ -74,3 +74,4 @@ void free_listint2safe(listpointer_t **head)
 		*head = NULL;
 	}
 }
+
