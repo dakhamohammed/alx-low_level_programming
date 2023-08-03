@@ -6,7 +6,7 @@ void free_listint2safe(listpointer_t **head);
  * print_listint_safe - function that prints a listint_t linked list.
  * @head: pointer to the first and new node in the list.
  *
- * Return: number of nodes in the list
+ * Return: number of nodes in the list.
  */
 size_t print_listint_safe(const listint_t *head)
 {
