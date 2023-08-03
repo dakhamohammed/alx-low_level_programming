@@ -19,3 +19,5 @@
 | **100-reverse_listint.c**    | **`listint_t *reverse_listint()`**         | Function that reverses a **listint_t** linked list.                          |
 | **101-print_listint_safe.c** | **`size_t print_listint_safe()`**          | Function that prints a **listint_t** linked list.                            |
 | **102-free_listint_safe.c**  | **`size_t free_listint_safe()`**           | Function that frees a **listint_t** list.                                    |
+| **103-find_loop.c**          | **`listint_t *find_listint_loop()`**       | Function that finds the loop in a linked list.                               |
+
