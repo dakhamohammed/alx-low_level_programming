@@ -13,7 +13,7 @@ void print_version(char *magicp);
 void print_data(char *magicp);
 void print_magic(char *magicp);
 void check_sys_ver(char *magicp);
-int check_elf(char *magicp)
+int check_elf(char *magicp);
 
 /**
  * main - entry point.
@@ -259,7 +259,7 @@ void print_magic(char *magicp)
 }
 
 /**
- * check_syst - function that check the systtem version.
+ * check_sys_ver - function that check the systtem version.
  * @magicp: magic pointer.
  *
  * Return: void, no return.
