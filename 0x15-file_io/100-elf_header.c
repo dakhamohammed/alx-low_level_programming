@@ -25,7 +25,7 @@ int check_elf(char *magicp)
 int main(int argc, char *argv[])
 {
 	char magicp[27];
-	int fd, return_read;
+	int fd, ret_read;
 
 	if (argc != 2)
 	{
@@ -42,9 +42,9 @@ int main(int argc, char *argv[])
 	}
 
 	lseek(fd, 0, SEEK_SET);
-	return_read = read(fd, magicp, 27);
+	ret_read = read(fd, magicp, 27);
 
-	if (return_read == -1)
+	if (ret_read == -1)
 	{
 		dprintf(STDERR_FILENO, "Err: The file can not be read\n");
 		exit(98);
@@ -174,7 +174,7 @@ void print_osabi(char *magicp)
 	char osabi = magicp[7];
 
 	printf("  OS/ABI:                            ");
-	
+
 	if (osabi == 0)
 	{
 		printf("UNIX - systtem V\n");
@@ -274,7 +274,7 @@ void check_sys_ver(char *magicp)
 	}
 
 	printf("ELF Header:\n");
-	
+
 	print_magic(magicp);
 
 	if (syst == '1')
