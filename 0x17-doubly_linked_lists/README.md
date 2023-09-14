@@ -24,3 +24,7 @@
      - where index is the index of the node, starting from 0
      - if the node does not exist, return NULL
 
+6. **6-sum_dlistint.c**
+   - Function that returns the sum of all the data (n) of a dlistint_t linked list.
+     - if the list is empty, return 0
+
