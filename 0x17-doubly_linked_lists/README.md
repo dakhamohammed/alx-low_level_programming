@@ -19,3 +19,8 @@
 5. **4-free_dlistint.c**
    - Function that frees a dlistint_t list.
 
+6. **5-get_dnodeint.c**
+   - Function that returns the nth node of a dlistint_t linked list.
+     - where index is the index of the node, starting from 0
+     - if the node does not exist, return NULL
+
