@@ -16,3 +16,6 @@
    - Function that adds a new node at the end of a dlistint_t list.
      - Return: the address of the new element, or NULL if it failed
 
+5. **4-free_dlistint.c**
+   - Function that frees a dlistint_t list.
+
