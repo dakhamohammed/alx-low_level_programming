@@ -12,3 +12,7 @@
    - Function that adds a new node at the beginning of a dlistint_t list.
      - Return: the address of the new element, or NULL if it failed
 
+4. **3-add_dnodeint_end.c**
+   - Function that adds a new node at the end of a dlistint_t list.
+     - Return: the address of the new element, or NULL if it failed
+
