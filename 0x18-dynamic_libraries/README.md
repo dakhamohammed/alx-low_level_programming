@@ -26,3 +26,6 @@
      - char *_strstr(char *haystack, char *needle);
      ```
 
+2. **1-create_dynamic_lib.sh**
+   - Shell script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
+
