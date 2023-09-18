@@ -29,3 +29,37 @@
 2. **1-create_dynamic_lib.sh**
    - Shell script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
 
+
+3. **100-operations.so**
+   - Dynamic library that contains C functions that can be called from Python.
+     - Functions in the library:
+       ```c
+       - int add(int a, int b);
+       - int sub(int a, int b);
+       - int mul(int a, int b);
+       - int div(int a, int b);
+       - int mod(int a, int b);
+       ```
+     - To call this library from python source file ex(100-tests.py):
+       ```python
+       import ctypes
+       import random
+       variable_name = ctypes.CDLL('./100-operations.so')
+       a = random.randint(-111, 111)
+       b = random.randint(-111, 111)
+       print("{} + {} = {}".format(a, b, cops.add(a, b)))
+       print("{} - {} = {}".format(a, b, cops.sub(a, b)))
+       print("{} x {} = {}".format(a, b, cops.mul(a, b)))
+       print("{} / {} = {}".format(a, b, cops.div(a, b)))
+       print("{} % {} = {}".format(a, b, cops.mod(a, b)))
+       ```
+     - Testing:
+       ```
+       $ python3 100-tests.py
+       39 + -62 = -23
+       39 - -62 = 101
+       39 x -62 = -2418
+       39 / -62 = 0
+       39 % -62 = 39
+       ```
+
