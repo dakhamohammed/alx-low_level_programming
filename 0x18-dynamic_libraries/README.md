@@ -62,4 +62,6 @@
        39 / -62 = 0
        39 % -62 = 39
        ```
+4. **101-make_me_win.sh**
+   - Giga Millions program.
 
