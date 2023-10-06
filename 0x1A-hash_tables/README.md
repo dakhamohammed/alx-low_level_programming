@@ -16,3 +16,6 @@
 2. **1-djb2.c**
    - Hash function implementing the djb2 algorithm.
 
+3. **2-key_index.c**
+   - Function that gives you the index of a key.
+
