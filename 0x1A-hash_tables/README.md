@@ -10,3 +10,6 @@
 
 ### Files
 
+1. **0-hash_table_create.c**
+   - Function that creates a hash table.
+
