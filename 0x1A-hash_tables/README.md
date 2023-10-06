@@ -22,3 +22,6 @@
 4. **3-hash_table_set.c**
    - Function that adds an element to the hash table.
 
+5. **4-hash_table_get.c**
+   - Function that retrieves a value associated with a key.
+
