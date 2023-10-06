@@ -13,3 +13,6 @@
 1. **0-hash_table_create.c**
    - Function that creates a hash table.
 
+2. **1-djb2.c**
+   - Hash function implementing the djb2 algorithm.
+
