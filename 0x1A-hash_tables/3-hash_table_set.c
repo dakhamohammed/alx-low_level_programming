@@ -16,7 +16,9 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 	unsigned long int i, index;
 	int key_cmp;
 
-	if (dup_val == NULL || key == NULL || *key == '\0')
+	if (dup_val == NULL || key == NULL || *key == '\0' || value == NULL)
+		return (0);
+	if (ht == NULL)
 		return (0);
 
 	index = key_index((const unsigned char *)key, ht->size);
@@ -45,11 +47,9 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		free(new_node);
 		return (0);
 	}
-
 	new_node->value = dup_val;
 	new_node->next = ht->array[index];
 	ht->array[index] = new_node;
-
 	return (1);
 }
 
