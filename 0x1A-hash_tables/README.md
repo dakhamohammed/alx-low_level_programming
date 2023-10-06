@@ -19,3 +19,6 @@
 3. **2-key_index.c**
    - Function that gives you the index of a key.
 
+4. **3-hash_table_set.c**
+   - Function that adds an element to the hash table.
+
