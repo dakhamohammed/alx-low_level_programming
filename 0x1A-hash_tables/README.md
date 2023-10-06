@@ -28,3 +28,6 @@
 6. **5-hash_table_print.c**
    - Function that prints a hash table.
 
+7. **6-hash_table_delete.c**
+   - Function that deletes a hash table.
+
