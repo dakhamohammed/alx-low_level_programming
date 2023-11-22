@@ -21,3 +21,15 @@
     * `SRC`: the .c files.
   * File: `1-Makefile`
 
++ Task 2. **make -f 2-Makefile**
+  * Useful Makefile
+    * name of the executable: `school`
+    * rules: `all` builds your executable
+    * variables: `CC`, `SRC`, `OBJ`, `NAME`
+      * **CC**: the compiler to be used
+      * **SRC**: the .c files
+      * **OBJ**: the .o files
+      * **NAME**: the name of the executable
+The `all` rule should recompile only the updated source files.
+
+
