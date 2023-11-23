@@ -17,8 +17,8 @@
 
 + Task 1. **make -f 1-Makefile**
   * Same as task 0 just with variables `CC`, `SRC`
-    * `CC`: the compiler to be used.
-    * `SRC`: the .c files.
+    * **CC**: the compiler to be used.
+    * **SRC**: the .c files.
   * File: `1-Makefile`
 
 + Task 2. **make -f 2-Makefile**
@@ -50,4 +50,9 @@ The `all` rule should recompile only the updated source files.
 The all rule should recompile only the updated source files.
 The clean, oclean, fclean, re rules should never fail.
   File: `3-Makefile`
+
++ Task 4. **A complete Makefile**
+  * Same as task 3 but add new variable `CFLAGS`
+    * **CFLAGS**: your favorite compiler flags: `-Wall -Werror -Wextra -pedantic`
+  * File: `4-Makefile`
 
